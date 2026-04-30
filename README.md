@@ -106,9 +106,9 @@
 <pre>
 ┌─ highlight ─────────────────────────────────────────────┐
 │                                                          │
-│  I have been playing around with apps, mostly focused    │
-│  on backend systems — I can say I am amongst the 1%      │
-│  in this niche.                                          │
+│  I have been playing around with frameworks, mostly      │
+│  focused on backend systems — I can say I am amongst the │
+│  1% in this niche.                                       │
 │                                                          │
 │  2022  ▸  Codecademy on a laptop. Knew nothing.          │
 │  2023  ▸  Intermediate dev, static projects              │
@@ -121,7 +121,7 @@
 │  got trashed once they felt boring...                    │
 │                                                          │
 │  Being broke was one of the biggest factors of my        │
-│  breakthrough in this niche. I couldn't afford            │
+│  breakthrough in this niche. I couldn't afford           │
 │  high-end models, so I was forced to use very bad        │
 │  ones — which taught me debugging                        │
 │  and system architecture.                                │
