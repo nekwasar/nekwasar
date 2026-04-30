@@ -21,10 +21,7 @@
 <br>
 
 <p align="center">
-  <picture>
-    <source srcset="quote-box-dark.svg" media="(prefers-color-scheme: light)">
-    <img src="quote-box-light.svg" width="700" alt="">
-  </picture>
+  <img src="quote-box.svg" width="700" alt="">
 </p>
 
 <br>
