@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 52">
-  <rect width="700" height="52" rx="6" fill="#21262d" />
-  <rect x="0" y="0" width="700" height="52" rx="6" fill="none" stroke="#30363d" stroke-width="1.5" />
-  <text x="350" y="28" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3" text-anchor="middle" dominant-baseline="central">
-    "can't say i am a software engineer because agentic engineering is beyond just software!"
-  </text>
-</svg>

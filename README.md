@@ -20,9 +20,7 @@
 
 <br>
 
-<p align="center">
-  <img src="quote-box.svg" width="700" alt="">
-</p>
+> "can't say i am a software engineer because agentic engineering is beyond just software!"
 
 <br>
 
