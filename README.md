@@ -15,6 +15,13 @@
 └────────────┘
 </pre>
   </td>
+  <td valign="bottom">
+<pre>
+┌──────────────┐
+│ 2022 → Date  │
+└──────────────┘
+</pre>
+  </td>
 </tr>
 </table>
 
@@ -96,7 +103,7 @@
 
 <br>
 
-```
+<pre>
 ┌─ highlight ─────────────────────────────────────────────┐
 │                                                          │
 │  I have been playing around with apps, mostly focused    │
@@ -107,23 +114,23 @@
 │  2023  ▸  Intermediate dev, static projects              │
 │           (mostly YouTube-inspired)                      │
 │  2024  ▸  Expert in static — HTML, CSS, JS, EJS          │
-│  2025  ▸  The main saga begins...                          │
+│  2025  ▸  The main saga begins...                        │
 │                                                          │
 │  I have built a lot of apps, most unfinished or          │
 │  slightly contributed to. The ones I did complete        │
-│  got trashed once they felt boring...                      │
+│  got trashed once they felt boring...                    │
 │                                                          │
 │  Being broke was one of the biggest factors of my        │
 │  breakthrough in this niche. I couldn't afford            │
 │  high-end models, so I was forced to use very bad        │
 │  ones — which taught me debugging                        │
-│  and system architecture...                                 │
+│  and system architecture.                                │
 │                                                          │
 │  → full story coming on                                  │
 │    <a href="https://medium.com/@nekwasar">medium.com/@nekwasar</a>                         │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
-```
+</pre>
 
 <br>
 
