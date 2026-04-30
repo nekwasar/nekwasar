@@ -1,10 +1,5 @@
 <table>
 <tr>
-  <td rowspan="2" width="170"><img src="profile-pixel.svg" width="140" alt=""></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
   <td>
 <pre>
 ┌──────────────────────────────────┐
@@ -26,7 +21,10 @@
 <br>
 
 <p align="center">
-  <img src="quote-box.svg" width="700" alt="">
+  <picture>
+    <source srcset="quote-box-dark.svg" media="(prefers-color-scheme: light)">
+    <img src="quote-box-light.svg" width="700" alt="">
+  </picture>
 </p>
 
 <br>
