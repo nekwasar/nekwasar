@@ -127,7 +127,7 @@
 │  and system architecture.                                │
 │                                                          │
 │  → full story coming on                                  │
-│    <a href="https://medium.com/@nekwasar">medium.com/@nekwasar</a>                                     │
+│    <a href="https://medium.com/@nekwasar">medium.com/@nekwasar</a>                                  │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 </pre>
