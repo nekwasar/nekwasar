@@ -113,8 +113,9 @@
 │  2022  ▸  Codecademy on a laptop. Knew nothing.          │
 │  2023  ▸  Intermediate dev, static projects              │
 │           (mostly YouTube-inspired)                      │
-│  2024  ▸  Expert in static — HTML, CSS, JS, EJS          │
-│  2025  ▸  The main saga begins...                        │
+│  2024  ▸  Expert in static — HTML, CSS, JS. Intermediate  |
+|            dynamic sites (EJS expert, React beginner)    │
+│  2025  ▸  The main saga begins...                         |
 │                                                          │
 │  I have built a lot of apps, most unfinished or          │
 │  slightly contributed to. The ones I did complete        │
