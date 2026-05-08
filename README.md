@@ -8,9 +8,13 @@
 └──────────────────────────────────┘
 </pre>
   </td>
-   <td valign="bottom" align="center">
-     <img src="https://count.getloli.com/@nekwasar?name=nekwasar&theme=gelbooru&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto" /> visitors
-   </td>
+  <td valign="bottom">
+<pre>
+┌──────────────┐
+│ 0 visitors   │
+└──────────────┘
+</pre>
+  </td>
   <td valign="bottom">
 <pre>
 ┌──────────────┐
@@ -140,4 +144,6 @@
   &nbsp;·&nbsp;
   <a href="https://nekwasar.com">nekwasar.com</a>
 </p>
+
+<img src="https://api.counterapi.dev/v1/nekwasar/visitors/up" width="1" height="1" alt="">
 
