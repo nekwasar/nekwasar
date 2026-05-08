@@ -9,7 +9,7 @@
 </pre>
   </td>
    <td valign="bottom" align="center">
-     <img src="https://count.getloli.com/@nekwasar?name=nekwasar&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+     <img src="https://count.getloli.com/@nekwasar?name=nekwasar&theme=gelbooru&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto" /> visitors
    </td>
   <td valign="bottom">
 <pre>
