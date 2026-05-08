@@ -8,13 +8,9 @@
 └──────────────────────────────────┘
 </pre>
   </td>
-  <td valign="bottom">
-<pre>
-┌────────────┐
-│ 0 visitors │
-└────────────┘
-</pre>
-  </td>
+   <td valign="bottom" align="center">
+     <img src="https://count.getloli.com/@nekwasar?name=nekwasar&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+   </td>
   <td valign="bottom">
 <pre>
 ┌──────────────┐
