@@ -42,19 +42,19 @@
 │  ruby  ·  ejs                     │
 │                                   │
 │  backend                          │
-│  fastapi  ·  node.js  ·  nextjs   │
+│  fastapi  ·  node.js  ·  go       │
 │                                   │
 │  frontend                         │
 │  react  ·  html  ·  css           │
-│  tailwind  ·  shadcn  ·  jinja    │
+│  tailwind  ·  shadcn  ·  next.js  │
 │                                   │
 │  databases                        │
 │  mongodb (mongoose)               │
 │  postgresql  ·  mysql             │
 │                                   │
 │  infrastructure                   │
-│  nginx  ·  docker  ·  linux       │
-│  (raw metal / empty server)       │
+│  nginx  ·  docker  ·  aws (mid)   │
+│  linux (raw metal / empty server) │
 │                                   │
 └───────────────────────────────────┘
 </pre>
