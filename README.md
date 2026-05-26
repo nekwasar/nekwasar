@@ -139,7 +139,10 @@
 │  I am not a software engineer. I am an Agentic &         │
 │  Systems Engineer — I engineer systems by directing      │
 │  AI, not by writing every line myself.                   │
-│  That distinction is the whole point.                    │
+  │  That distinction is the whole point.                    │
+│                                                          │
+│  → full story on                                          │
+│    <a href="https://medium.com/@nekwasar">medium.com/@nekwasar</a>                                  │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 </pre>
