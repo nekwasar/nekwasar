@@ -106,29 +106,40 @@
 <pre>
 ┌─ highlight ─────────────────────────────────────────────┐
 │                                                          │
-│  I have been playing around with frameworks, mostly      │
-│  focused on backend systems — I can say I am amongst the │
-│  1% in this niche.                                       │
+│  2022  ▸  Started coding. No mentor, no budget.          │
+│           Worst AI models available.                     │
+│           Built HotSwagGraphics & Cloes Bakery —         │
+│           both static, never launched.                   │
 │                                                          │
-│  2022  ▸  Codecademy on a laptop. Knew nothing.          │
-│  2023  ▸  Intermediate dev, static projects              │
-│           (mostly YouTube-inspired)                      │
-│  2024  ▸  Expert in static — HTML, CSS, JS. Intermediate  |
-|            dynamic sites (EJS expert, React beginner)    │
-│  2025  ▸  The main saga begins...                         |
+│  2023  ▸  EntHub & a movie site. Lost both codebases.    │
+│           Still learning how to make bad AI              │
+│           produce good systems.                          │
 │                                                          │
-│  I have built a lot of apps, most unfinished or          │
-│  slightly contributed to. The ones I did complete        │
-│  got trashed once they felt boring...                    │
+│  2024  ▸  YoTop10 v1 (static HTML/CSS/JS) & v2 (EJS).    │
+│           Codebases lost. But the pattern was forming.   │
 │                                                          │
-│  Being broke was one of the biggest factors of my        │
-│  breakthrough in this niche. I couldn't afford           │
-│  high-end models, so I was forced to use very bad        │
-│  ones — which taught me debugging                        │
-│  and system architecture.                                │
+│  2025  ▸  YoTop10 v3 (React) → v4 (Next.js) →           │
+│           v5 (FastAPI). Each iteration taught me to      │
+│           engineer AI output, not just write code.       │
+│           Ecosystem v1 (Blog, Store, Portfolio, Admin).  │
 │                                                          │
-│  → full story coming on                                  │
-│    <a href="https://medium.com/@nekwasar">medium.com/@nekwasar</a>                                  │
+│  2026  ▸  YoTop10 v6 (Node, Next.js, MongoDB) —         │
+│           nearly complete. Static v1 rebuild running     │
+│           for domain authority.                          │
+│           Ecosystem live (standalone Blog, Store,        │
+│           Portfolio). Minitia (25-tool dev suite) —      │
+│           BugSwarm first tool. Moistello (Stellar        │
+│           blockchain savings app). Static blogs          │
+│           (tipshub.cc, proptengine.cc, cremy.co,         │
+│           acad.ngentech.co) building domain authority.   │
+│                                                          │
+│  Not all are live on their servers yet.                  │
+│  All have domains. All are deliberate.                   │
+│                                                          │
+│  I am not a software engineer. I am an Agentic &         │
+│  Systems Engineer — I engineer systems by directing      │
+│  AI, not by writing every line myself.                   │
+│  That distinction is the whole point.                    │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 </pre>
