@@ -106,42 +106,44 @@
 <pre>
 ┌─ highlight ─────────────────────────────────────────────┐
 │                                                          │
-│  2022  ▸  Started coding. No mentor, no budget.          │
-│           Worst AI models available.                     │
-│           Built HotSwagGraphics & Cloes Bakery —         │
-│           both static, never launched.                   │
+│  I started coding in 2022 with zero budget and the       │
+│  worst AI models you could find. No mentor. Just raw     │
+│  determination and a lot of failed projects I never      │
+│  launched.                                                │
 │                                                          │
-│  2023  ▸  EntHub & a movie site. Lost both codebases.    │
-│           Still learning how to make bad AI              │
-│           produce good systems.                          │
+│  Being broke was a hidden advantage. I couldn't afford   │
+│  good models, so I was forced to deeply debug and        │
+│  understand system architecture — skills that would      │
+│  later define how I work.                                │
 │                                                          │
-│  2024  ▸  YoTop10 v1 (static HTML/CSS/JS) & v2 (EJS).    │
-│           Codebases lost. But the pattern was forming.   │
+│  Since then, I have rebuilt my flagship product          │
+│  (YoTop10) 6 times — not because the code was bad,       │
+│  but because each version taught me how to make AI       │
+│  build what I actually envisioned. v1 was static         │
+│  HTML. v6 is Node, Next.js, and MongoDB — and I wrote    │
+│  very little of it directly. I engineered the AI to      │
+│  write it for me.                                        │
 │                                                          │
-│  2025  ▸  YoTop10 v3 (React) → v4 (Next.js) →           │
-│           v5 (FastAPI). Each iteration taught me to      │
-│           engineer AI output, not just write code.       │
-│           Ecosystem v1 (Blog, Store, Portfolio, Admin).  │
+│  Today I have four products in motion:                   │
+│  · YoTop10 v6 — nearly done. A static rebuild of v1      │
+│    runs in the meantime for domain authority.            │
+│  · Ecosystem — Portfolio, Blog, Store. All live.         │
+│  · Minitia — a 25-tool dev suite. BugSwarm first.        │
+│  · Moistello — blockchain savings app on Stellar.        │
 │                                                          │
-│  2026  ▸  YoTop10 v6 (Node, Next.js, MongoDB) —         │
-│           nearly complete. Static v1 rebuild running     │
-│           for domain authority.                          │
-│           Ecosystem live (standalone Blog, Store,        │
-│           Portfolio). Minitia (25-tool dev suite) —      │
-│           BugSwarm first tool. Moistello (Stellar        │
-│           blockchain savings app). Static blogs          │
-│           (tipshub.cc, proptengine.cc, cremy.co,         │
-│           acad.ngentech.co) building domain authority.   │
+│  I also run static blogs (tipshub.cc, proptengine.cc,    │
+│  cremy.co, acad.ngentech.co) — not distractions, but     │
+│  domain authority plays while the main products cook.    │
 │                                                          │
-│  Not all are live on their servers yet.                  │
-│  All have domains. All are deliberate.                   │
+│  Not everything is on its live server yet. But           │
+│  everything has a domain. Everything is deliberate.      │
 │                                                          │
 │  I am not a software engineer. I am an Agentic &         │
 │  Systems Engineer — I engineer systems by directing      │
 │  AI, not by writing every line myself.                   │
-  │  That distinction is the whole point.                    │
+│  That distinction is the whole point.                    │
 │                                                          │
-│  → full story on                                          │
+│  → full story on medium                                  │
 │    <a href="https://medium.com/@nekwasar">medium.com/@nekwasar</a>                                  │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
