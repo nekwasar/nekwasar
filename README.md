@@ -76,7 +76,7 @@
 │                                   │
 │  🛠️ Research Nerd.                │
 │  🤖 Agentic Workflow Builder.     │
-│  🍜 Anime Enthusiast.             │
+│  🍜 Anime Lover.                  │
 │                                   │
 └───────────────────────────────────┘
 </pre>
@@ -89,13 +89,12 @@
 <br>
 
 ```
-┌─ projects ─────────────────────────────────────────────┐
+┌─ products ─────────────────────────────────────────────┐
 │                                                          │
-│  ▸ Creamy docs                                          │
-│    AI toolkit for Document Maker, Formatter,             │
-│    and Converter.                                        │
+│  ▸ Moistello                                             │
+│    Decentralized Savings Platform.                       │
 │                                                          │
-│  ▸ YoTop10                                              │
+│  ▸ YoTop10                                               │
 │    Top 10 Lists Ranking Platform.                        │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
