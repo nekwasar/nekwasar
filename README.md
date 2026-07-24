@@ -39,7 +39,8 @@
 │                                   │
 │  languages                        │
 │  go  ·  typescript  ·  js        │
-│  ruby  ·  ejs                     │
+│  python  ·  svelte  ·  ruby      │
+│  ejs                              │
 │                                   │
 │  backend                          │
 │  fastapi  ·  node.js  ·  go       │
@@ -91,11 +92,20 @@
 ```
 ┌─ products ─────────────────────────────────────────────┐
 │                                                          │
-│  ▸ Moistello                                             │
-│    Decentralized Savings Platform.                       │
-│                                                          │
 │  ▸ YoTop10                                               │
-│    Top 10 Lists Ranking Platform.                        │
+│    Top 10 Lists Ranking Platform (shipped).              │
+│                                                          │
+│  ▸ Moistello                                             │
+│    Decentralized Savings Platform (Stellar).             │
+│                                                          │
+│  ▸ Ceche                                                 │
+│    Domain Appraisal Engine — 16-dimension valuation.     │
+│                                                          │
+│  ▸ CodeXhange                                            │
+│    Promo Codes Platform — Fuel Token Economy.            │
+│                                                          │
+│  ▸ MovieDB                                               │
+│    Every Movie & Anime Ever Published.                   │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -115,27 +125,14 @@
 │  understand system architecture — skills that would      │
 │  later define how I work.                                │
 │                                                          │
-│  Since then, I have rebuilt my flagship product          │
-│  (YoTop10) 6 times — not because the code was bad,       │
-│  but because each version taught me how to make AI       │
-│  build what I actually envisioned. v1 was static         │
-│  HTML. v6 is Node, Next.js, and MongoDB — and I wrote    │
-│  very little of it directly. I engineered the AI to      │
-│  write it for me.                                        │
+│  I rebuilt YoTop10 6 times — each version taught me     │
+│  how to make AI build what I envisioned. v1 was static   │
+│  HTML. v6 is Node, Next.js, MongoDB. Today it's         │
+│  shipped.                                                 │
 │                                                          │
-│  Today I have four products in motion:                   │
-│  · YoTop10 v6 — nearly done. A static rebuild of v1      │
-│    runs in the meantime for domain authority.            │
-│  · Ecosystem — Portfolio, Blog, Store. All live.         │
-│  · Minitia — a 25-tool dev suite. BugSwarm first.        │
-│  · Moistello — blockchain savings app on Stellar.        │
-│                                                          │
-│  I also run static blogs (tipshub.cc, proptengine.cc,    │
-│  cremy.co, acad.ngentech.co) — not distractions, but     │
-│  domain authority plays while the main products cook.    │
-│                                                          │
-│  Not everything is on its live server yet. But           │
-│  everything has a domain. Everything is deliberate.      │
+│  My current focus: building 200 apps by December.        │
+│  Ceche, CodeXhange, and MovieDB are live in private      │
+│  development — plus Moistello on Stellar.                │
 │                                                          │
 │  I am not a software engineer. I am an Agentic &         │
 │  Systems Engineer — I engineer systems by directing      │
