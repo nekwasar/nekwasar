@@ -11,7 +11,7 @@
   <td valign="bottom">
 <pre>
 ┌──────────────┐
-│ 296 visitors   │
+│ 297 visitors   │
 └──────────────┘
 </pre>
   </td>
